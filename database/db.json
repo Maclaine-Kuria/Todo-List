@@ -1,0 +1,20 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "task": "Go shopping"
+        },
+        {
+            "id": 2,
+            "task":"Typing, compiling and preparing reports, presentations and correspondence"
+        },
+        {
+            "id": 3,
+            "task":"Liaising with staff, suppliers and clients"
+        },
+        {
+            "id": 4,
+            "task":"miscellaneous tasks to support their manager, which will vary according to the sector and to the manager’s remit, eg completing some corporate governance reporting (to ensure that the business is being run properly and complying with legislation and regulations) or conducting research."
+        }
+    ]
+}
